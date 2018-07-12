@@ -22,4 +22,4 @@ for access.
 
 ---
 
-Contact <composites-centre@bristol.ac.uk> or telephone +44 (0)117 33 15311
+Contact <accis-github@bristol.ac.uk> or telephone +44 (0)117 33 15311
