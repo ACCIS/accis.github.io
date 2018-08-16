@@ -13,7 +13,7 @@ for collaboration, both nationally and internationally.
 This page collects the various research codes that ACCIS has made
 available to the academic community. The codes are hosted on GitHub via
 the [ACCIS organisation page](https://github.com/ACCIS). Please contact
-accis-github@bristol.ac.uk for access.
+[accis-github@bristol.ac.uk](accis-github@bristol.ac.uk) for access.
 
 # Software
 
