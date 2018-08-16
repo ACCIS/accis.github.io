@@ -5,7 +5,7 @@ layout: default
 # Bristol Composites Institute
 
 The [Bristol Composites Institute (ACCIS)](http://www.bris.ac.uk/composites),
-based at the University of Bristol, UK,cbrings together composites activities
+based at the University of Bristol, UK, brings together composites activities
 across the University. It combines cutting-edge fundamental science with strong
 industrial links for exploitation and technology transfer, and acts as focus
 for collaboration, both nationally and internationally.
@@ -13,7 +13,7 @@ for collaboration, both nationally and internationally.
 This page collects the various research codes that ACCIS has made
 available to the academic community. The codes are hosted on GitHub via
 the [ACCIS organisation page](https://github.com/ACCIS). Please contact
-[accis-github@bristol.ac.uk](accis-github@bristol.ac.uk) for access.
+<accis-github@bristol.ac.uk> for access.
 
 # Software
 
