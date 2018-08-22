@@ -1,6 +1,7 @@
 # Bristol Composites Institute (ACCIS)
 
-This is my test version of the ACCIS landing page.
+This is the home of modelling code developed by ACCIS to support our
+research, and made available for use by the academic community.
 
 See [our web page](https://accis.github.io) for details.
 
