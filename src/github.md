@@ -19,6 +19,7 @@ for access.
 | Project | Description |
 | --------- | ------------- |
 | [DefGen](https://accis.github.io/DefGen/) | This repository encloses a UMAT subroutine for the Finite Element software Abaqus. Given a determined cycle of pressure and temperature, the subroutine allows to make predictions for the the final thickness, fibre volume fraction and defects formed during the processing of composte parts manufactured through the prepreg technology. The code is at the basis of the recent work on defect formation performed at the university of Bristol (references included). |
+| [SimpleCure](https://github.com/ACCIS/simplecure) | This project was developed to increase awareness of how thermal management modelling can be used to help guide design and production of composite structures in industry. The tools predict the 1D heat transfer in composites manufacturing processes with varying processing conditions, material properties, and geometries. User guide and tutorial are included. |
 
 ---
 
