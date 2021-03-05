@@ -1,3 +1,7 @@
+---
+permalink: /HypoDrape/
+---
+
 # HypoDrape
 Hypodrape is a usermaterial subroutine (VUMAT) for Abaqus/Explicit used to define the mechanical constitutive behaviour of biaxial textile materials for simulating fabric drape and forming. 
 

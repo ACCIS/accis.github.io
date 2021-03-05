@@ -1,3 +1,7 @@
+---
+permalink: /DefGen/
+---
+
 # DefGen
 This directory contains all the files necessary to run the Abaqus UMAT developed at the University of Bristol for the simulation of the compaction behaviour of uncured prepreg under 
 processing conditions.

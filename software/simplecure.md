@@ -1,3 +1,7 @@
+---
+permalink: /simplecure/
+---
+
 # Introduction
 
 **SimpleCure** was developed between the National Composites Centre and the University of Bristol using High-Value Manufacturing Catapult funds with the aim of demonstrating the power of thermal modelling to the UK composites industry. A series of four Microsoft Excel spreadsheets were created having different boundary conditions that are commonly found in composites manufacture. Thermal material models are implemented in 1D so the user can identify time to cure and maximum overshoot for a given processing cycle. While there are a variety of ways to simulate the heat transfer in composites manufacture, the main aim here is awareness of the possibilities.
