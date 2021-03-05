@@ -7,8 +7,10 @@ permalink: /simplecure/
 **SimpleCure** was developed between the National Composites Centre and the University of Bristol using High-Value Manufacturing Catapult funds with the aim of demonstrating the power of thermal modelling to the UK composites industry. A series of four Microsoft Excel spreadsheets were created having different boundary conditions that are commonly found in composites manufacture. Thermal material models are implemented in 1D so the user can identify time to cure and maximum overshoot for a given processing cycle. While there are a variety of ways to simulate the heat transfer in composites manufacture, the main aim here is awareness of the possibilities.
 
 # Access
-
 To receive access to the SimpleCure repository, please send a short email to accis-github@bristol.ac.uk to let us know your interest.   
+
+Access is granted on the condition that you agree for us to contact you about your use of the software.
+
 You can click [here](mailto:accis-github@bristol.ac.uk?subject=Access%20to%20SimpleCure%20repository&body=Dear%20ACCIS%2C%20%0D%0A%0D%0AI%20would%20like%20to%20request%20access%20to%20your%20GitHub%20repository%20for%20SimpleCure.%20%0D%0A%0D%0ABest%20wishes%2C%20%0D%0A%3Cname%3E%0D%0A%3Coptional%20affiliation%3E) for a template.
 
 
