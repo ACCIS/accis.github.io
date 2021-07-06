@@ -1,5 +1,5 @@
 ---
-permalink: /DefGen_1D/
+permalink: /archive/DefGen_1D/
 ---
 
 # DefGen 1D model

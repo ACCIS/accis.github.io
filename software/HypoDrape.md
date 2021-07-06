@@ -1,5 +1,5 @@
 ---
-permalink: /HypoDrape/
+permalink: /archive/HypoDrape/
 ---
 
 # HypoDrape

@@ -1,5 +1,5 @@
 ---
-permalink: /simplecure/
+permalink: /archive/simplecure/
 ---
 
 # Introduction

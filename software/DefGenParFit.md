@@ -1,5 +1,5 @@
 ---
-permalink: /DefGenParFit/
+permalink: /archive/DefGenParFit/
 ---
 
 # DefGen Parameter Extraction

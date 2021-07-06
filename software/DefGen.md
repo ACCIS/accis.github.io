@@ -1,5 +1,5 @@
 ---
-permalink: /DefGen/
+permalink: /archive/DefGen/
 ---
 
 # DefGen
