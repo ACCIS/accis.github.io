@@ -16,6 +16,11 @@ available to the academic community. The codes are hosted on GitHub via
 the [ACCIS organisation page](https://github.com/ACCIS). Please contact
 <accis-github@bristol.ac.uk> for access.
 
+# WARNING - THIS IS THE OLD SITE
+This is the old ACCIS Github page.
+
+If you would like to view the new page, please click [here](https://bristolcompositesinstitute.github.io)
+
 # Software
 
 | Project | Description |
