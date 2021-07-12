@@ -12,7 +12,10 @@ The related work was conducted at the University of Bristol under the EPSRC fund
 
 # Access
 
-To receive access to the DefGen repository, please send a short email to accis-github@bristol.ac.uk to let us know your interest.   
+To receive access to the DefGen repository, please send a short email to accis-github@bristol.ac.uk to let us know your interest.  
+
+Access is granted on the condition that you agree for us to contact you about your use of the software.
+  
 You can click [here](mailto:accis-github@bristol.ac.uk?subject=Access%20to%20DefGen%20repository&body=Dear%20ACCIS%2C%20%0D%0A%0D%0AI%20would%20like%20to%20request%20access%20to%20your%20GitHub%20repository%20for%20DefGen.%20%0D%0A%0D%0ABest%20wishes%2C%20%0D%0A%3Cname%3E%0D%0A%3Coptional%20affiliation%3E) for a template.
 
 # Additional details
