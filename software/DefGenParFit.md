@@ -7,6 +7,8 @@ This directory contains the implementation of the parameter extraction framework
 
 This work was supported by the Engineering and Physical Sciences Research Council (EPSRC) through the Centre for Doctoral Training in Advanced Composites Collaboration for Innovation and Science (grant number EP/L016028/1) and SIMulation of new manufacturing PROcesses for Composite Structures (SIMPROCS) (grant number EP/P027350/1).
 
+This code was originally developed by Anatoly Koptelov, and refactored for publication by Matt Edwards (Research Software Engineer)
+
 # Access
 To receive access to the DefGen Parameter Extraction (DefGenParFit) repository, please send a short email to accis-github@bristol.ac.uk to let us know your interest.  
 
